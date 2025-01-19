@@ -1,0 +1,92 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+!s11f vlog 2022.1_2 2022.04, Apr  2 2022
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home1/WBRN23/SSArankalle/VLSI_RN/Advanced_verilog/Code_coverage/lab5/arbiter/sim
+T_opt
+!s110 1737286867
+V4?1^bmOD_8l<S][X?faK:3
+04 16 4 work tb_userinterface fast 0
+=1-000ae431a4f1-678ce4d3-84c8-3acc19
+R0
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work arbiter
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2022.1_2;75
+varbiter
+Z3 !s110 1737286866
+!i10b 1
+!s100 LHD1Dc0_gR>]6Q8aBf<_L1
+I@3<XQ3@hH>bz95mZF]@N`1
+R1
+Z4 w1723880886
+8../rtl/arbiter.v
+F../rtl/arbiter.v
+!i122 0
+L0 24 193
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2022.1_2;75
+r1
+!s85 0
+31
+Z7 !s108 1737286866.000000
+Z8 !s107 ../tb/tb_userinterface.v|../tb/bfm_arbiter.v|../rtl/arbiter.v|
+Z9 !s90 -work|arbiter|-coveropt|3|+cover|+acc|../rtl/arbiter.v|../tb/bfm_arbiter.v|../tb/tb_userinterface.v|
+!i113 0
+Z10 !s102 -coveropt 3 +cover
+Z11 o-work arbiter -coveropt 3 +cover +acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vbfm_arbiter
+R3
+!i10b 1
+!s100 aIKbaDcVG5RHXS=21?of_1
+IlVSP>880JOg501[NOTBRY2
+R1
+R4
+8../tb/bfm_arbiter.v
+F../tb/bfm_arbiter.v
+!i122 0
+L0 28 348
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+R2
+vtb_userinterface
+R3
+!i10b 1
+!s100 doG@Cfb<W3iC5iW4dYJd]2
+IiFJkJM7[G@T76ScKBImIk3
+R1
+R4
+8../tb/tb_userinterface.v
+F../tb/tb_userinterface.v
+!i122 0
+L0 58 68
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+R2
