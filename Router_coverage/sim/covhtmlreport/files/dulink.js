@@ -1,0 +1,2 @@
+var g_data = {"2":["work.Router1x3",91.09,1],"1":["work.Router1x3_tb",81.00,1],"3":["work.router_fifo_design",77.92,1],"4":["work.router_fsm",72.73,1],"6":["work.router_register",89.26,1],"5":["work.router_synchronizer",61.89,1]};
+processDuLinks(g_data);

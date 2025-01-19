@@ -1,0 +1,163 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+!s11f vlog 2022.1_2 2022.04, Apr  2 2022
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home1/WBRN23/SSArankalle/VLSI_RN/Advanced_verilog/Code_coverage/Router_coverage/sim
+T_opt
+!s110 1737289026
+VAgaZlSYRJnMJ2`[J@bIoQ3
+04 12 4 work Router1x3_tb fast 0
+=1-000ae431a4f1-678ced42-84d17-3c23a1
+R0
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work router
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2022.1_2;75
+vRouter1x3
+Z3 !s110 1737289025
+!i10b 1
+!s100 HY2dRE]L_99gbD9lXd[BR2
+I6CnZdY@on]YKakL>NKQ8:0
+R1
+Z4 w1737288348
+8../rtl/Router1x3.v
+F../rtl/Router1x3.v
+!i122 0
+L0 1 136
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2022.1_2;75
+r1
+!s85 0
+31
+Z7 !s108 1737289025.000000
+Z8 !s107 ../tb/Router1x3_tb.v|../rtl/router_synchronizer.v|../rtl/router_register.v|../rtl/router_fsm.v|../rtl/router_fifo_design.v|../rtl/Router1x3.v|
+Z9 !s90 -work|router|-coveropt|3|+cover|+acc|../rtl/Router1x3.v|../rtl/router_fifo_design.v|../rtl/router_fsm.v|../rtl/router_register.v|../rtl/router_synchronizer.v|../tb/Router1x3_tb.v|
+!i113 0
+Z10 !s102 -coveropt 3 +cover
+Z11 o-work router -coveropt 3 +cover +acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@router1x3
+vRouter1x3_tb
+R3
+!i10b 1
+!s100 W7W2eWKH75LQAB9]mmenc2
+I2Gl;aQ5<9F`8zLII7lC5I2
+R1
+w1737288388
+8../tb/Router1x3_tb.v
+F../tb/Router1x3_tb.v
+!i122 0
+L0 1 217
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+R2
+n@router1x3_tb
+vrouter_fifo_design
+R3
+!i10b 1
+!s100 190<SoP5^aI3Fbcm69R0g3
+Ig:;jDoW^4gT;S4JbT2PME1
+R1
+Z12 w1737288347
+8../rtl/router_fifo_design.v
+F../rtl/router_fifo_design.v
+!i122 0
+L0 1 107
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+R2
+vrouter_fsm
+R3
+!i10b 1
+!s100 ZHbH<b;:m;IkCa]QZAV`z3
+Ig5aN;kzio@3HjZ96fZ[E:3
+R1
+R12
+8../rtl/router_fsm.v
+F../rtl/router_fsm.v
+!i122 0
+L0 1 110
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+R2
+vrouter_register
+R3
+!i10b 1
+!s100 ;gz7W:6]_QkaNASiNb2iJ1
+IP9TN;;jESGiDI8FD]D?Fc1
+R1
+R12
+8../rtl/router_register.v
+F../rtl/router_register.v
+!i122 0
+L0 1 157
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+R2
+vrouter_synchronizer
+R3
+!i10b 1
+!s100 l_7eoZe7TLb^YSmQ=J;K=0
+IUb9H=GFeC8PiAcC`42LEn0
+R1
+R4
+8../rtl/router_synchronizer.v
+F../rtl/router_synchronizer.v
+!i122 0
+L0 1 153
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+R2
